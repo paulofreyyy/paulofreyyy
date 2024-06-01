@@ -18,13 +18,21 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=css,html,mysql,bootstrap,git,github,postgres,aws,docker,express,jest,vite)](https://skillicons.dev)<br><br>
 
-## 👷🏻 Experiência mais Recente
+## 👷🏻 Experiências mais Recentes
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fsdu12-2.fna.fbcdn.net/v/t39.30808-6/422228135_859615082840919_2437700394420753461_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xM7BVd2j-UkQ7kNvgH2rlbp&_nc_ht=scontent.fsdu12-2.fna&oh=00_AYD3r0qRaXMERZwk9WUkSm9pUageaSMx_N5pJFpaO8ag9A&oe=66616C85"/>](https://vortigo.digital/)
 
 **Desenvolvedor Backend** \
 [**Vortigo Digital**](https://vortigo.digital/) • Full-time \
-Linguagens & Tecnologias: `Javascript`, `Power Apps`, `API Rest`, `Power Automate`, `Power BI`, `Digibee`,\
+Linguagens & Tecnologias: `Javascript`, `Power Apps`, `API Rest`, `Power Automate`, `Power BI`, `Digibee`,
 Tempo de Atuação: `Jun 2022` - `Nov 2023`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://hashinfo.com.br/wp-content/uploads/2021/03/hashinfo-logotipo2021.png"/>](https://hashinfo.com.br/)
+
+**Estagiário de Desenvolvimento** \
+[**Vortigo Digital**](https://hashinfo.com.br/) • Full-time \
+Linguagens & Tecnologias: `Javascript`, `Node`, `React`, `Asp.Net Core`, `API REST`, `HTML`, `CSS`, `React Native`
+Tempo de Atuação: `Dez 2021` - `Jun 2022`
+Projetos em destaque: [FS Transportes](https://drive.google.com/drive/u/1/folders/1gwpuUwLnoeBSCsZj7_zsxJVxESglwSNo)
 <br/><br/>
 
 ## 📫 Contato
