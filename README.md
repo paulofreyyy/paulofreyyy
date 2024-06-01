@@ -29,8 +29,8 @@ Tempo de Atuação: `Jun 2022` - `Nov 2023`
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-paulohenriquep2000@gmail.com-006bed?style=style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:paulohenriquep2000@gmail.com})](mailto:paulohenriquep2000@gmail.com)
-[![Linkedin: Paulo](https://img.shields.io/badge/-PauloFrey-blue?style=style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz)](https://www.linkedin.com/in/paulo-pqueiroz)
+[![Gmail Badge](https://img.shields.io/badge/-paulohenriquep2000@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:paulohenriquep2000@gmail.com})](mailto:paulohenriquep2000@gmail.com)
+[![Linkedin: Paulo](https://img.shields.io/badge/-PauloFrey-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz)](https://www.linkedin.com/in/paulo-pqueiroz)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521992419980)
 <br><br>
 
