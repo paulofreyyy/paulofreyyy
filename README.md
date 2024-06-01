@@ -10,7 +10,7 @@
 
 Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utilizei essas habilidades para contribuir efetivamente no desenvolvimento de projetos web e mobile. Minha formação acadêmica sólida na Universidade Cruzeiro do Sul complementa minhas habilidades técnicas, proporcionando uma base sólida em Engenharia de Software.
 </p>
-<br><br>
+<br/>
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,cs,dotnet)](https://skillicons.dev)<br><br>
@@ -36,6 +36,6 @@ Tempo de Atuação: `Jun 2022` - `Nov 2023`
 
 
 ![PauloFreyyy GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreyyy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreyyy&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreyyy&layout=compact&theme=radical&show_icons=true)
 
 Fique à vontade para entrar em contato comigo! 😊 <br><br>
