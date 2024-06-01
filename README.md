@@ -2,9 +2,9 @@
 
 <p align="center">
   💻 Desenvolvedor Backend | 🌍 Apaixonado por Tecnologia
-</p><br><br>
+</p><br>
 
-## Sobre Mim
+## 🚀Sobre Mim
 <p>
   Minha experiência mais recente na VORTIGO DIGITAL me proporcionou a oportunidade de trabalhar como Desenvolvedor Full Stack, onde fui responsável pelo desenvolvimento de integrações utilizando a plataforma híbrida de integração Digibee, Power Apps e Mambu para criar APIs . Além disso, participei ativamente do design e desenvolvimento de soluções baseadas nessas plataformas, demonstrando minha habilidade em lidar com tecnologias modernas.
 
