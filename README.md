@@ -21,7 +21,7 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-paulohenriquep2000@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulohenriquep2000@gmail.com})](mailto:paulohenriquep2000@gmail.com)
-[![Linkedin: Paulo](https://img.shields.io/badge/-PauloFrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz))](https://www.linkedin.com/in/paulo-pqueiroz)
+[![Linkedin: Paulo](https://img.shields.io/badge/-PauloFrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz)](https://www.linkedin.com/in/paulo-pqueiroz)
 <br><br>
 
 
