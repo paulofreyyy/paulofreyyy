@@ -12,10 +12,10 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 </p>
 <br/>
 
-## 🚀 Linguagens de Programação
+## 🚀 Principais Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,cs,dotnet)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Outras Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=css,html,mysql,bootstrap,git,github,postgres,aws,docker,express,jest,vite)](https://skillicons.dev)<br><br>
 
 ## 👷🏻 Experiências mais Recentes
