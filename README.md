@@ -25,12 +25,12 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 [**Vortigo Digital**](https://vortigo.digital/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Power Apps`, `API Rest`, `Power Automate`, `Power BI`, `Digibee`,\
 Tempo de Atuação: `Jun 2022` - `Nov 2023`
-<br/>
+<br/><br/>
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-paulohenriquep2000@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulohenriquep2000@gmail.com})](mailto:paulohenriquep2000@gmail.com)
-[![Linkedin: Paulo](https://img.shields.io/badge/-PauloFrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz)](https://www.linkedin.com/in/paulo-pqueiroz)
+[![Gmail Badge](https://img.shields.io/badge/-paulohenriquep2000@gmail.com-006bed?style=style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:paulohenriquep2000@gmail.com})](mailto:paulohenriquep2000@gmail.com)
+[![Linkedin: Paulo](https://img.shields.io/badge/-PauloFrey-blue?style=style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-pqueiroz)](https://www.linkedin.com/in/paulo-pqueiroz)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521992419980)
 <br><br>
 
