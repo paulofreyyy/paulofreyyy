@@ -26,7 +26,7 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 Linguagens & Tecnologias: `Javascript`, `Power Apps`, `API Rest`, `Power Automate`, `Power BI`, `Digibee`,
 Tempo de Atuação: `Jun 2022` - `Nov 2023`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://hashinfo.com.br/wp-content/uploads/2021/03/hashinfo-logotipo2021.png"/>](https://hashinfo.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fsdu12-1.fna.fbcdn.net/v/t39.30808-6/305099140_449806407164744_9024310813885207796_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Qds5UX9SyQIQ7kNvgFjjllq&_nc_ht=scontent.fsdu12-1.fna&oh=00_AYA_NoouX-XRWcpxg-4bs-kLDN7ru4fYhESTw4J1N0PKrQ&oe=66617B86"/>](https://hashinfo.com.br/)
 
 **Estagiário de Desenvolvimento** \
 [**Vortigo Digital**](https://hashinfo.com.br/) • Full-time \
