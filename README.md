@@ -32,7 +32,6 @@ Tempo de Atuação: `Jun 2022` - `Nov 2023`
 [**Hashinfo Tecnologia**](https://hashinfo.com.br/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Node`, `React`, `Asp.Net Core`, `API REST`, `HTML`, `CSS`, `React Native`\
 Tempo de Atuação: `Dez 2021` - `Jun 2022` - Projetos em destaque: [FS Transportes](https://drive.google.com/drive/u/1/folders/1gwpuUwLnoeBSCsZj7_zsxJVxESglwSNo)
-<br/><br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C510BAQH_A1fXI9hMog/company-logo_200_200/0/1631314568687?e=1726099200&v=beta&t=gXGjNZ0fnDYPnupHE8S9YoFsqkvmrC2vWPIwFWrGY4M"/>](https://www.winsiga.com.br/)
 
