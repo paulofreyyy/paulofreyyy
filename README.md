@@ -37,7 +37,7 @@ Tempo de Atuação: `Dez 2021` - `Jun 2022` - Projetos em destaque: [FS Transpor
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C510BAQH_A1fXI9hMog/company-logo_200_200/0/1631314568687?e=1726099200&v=beta&t=gXGjNZ0fnDYPnupHE8S9YoFsqkvmrC2vWPIwFWrGY4M"/>](https://www.winsiga.com.br/)
 
 **Estagiário de Desenvolvimento** \
-[**Winsiga Sistemas**](https://vortigo.digital/) • Full-time \
+[**Winsiga Sistemas**](https://www.winsiga.com.br/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Asp.Net Core`, `VB.NET`, `C#`, `Sql Server`, `HTML e CSS`, `Power BI`\
 Tempo de Atuação: `Mai 2021` - `Nov 2021`
 <br /> <br />
