@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Paulo Henrique</h1>
 
 <p align="center">
-  💻 Desenvolvedor Backend | 🌍 Apaixonado por Tecnologia
+  💻 Desenvolvedor Frontend | 🌍 Apaixonado por Tecnologia
 </p><br>
 
 ## ✨ Sobre Mim
