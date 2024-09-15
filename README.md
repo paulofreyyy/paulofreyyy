@@ -28,7 +28,7 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 Linguagens & Tecnologias: `Javascript`, `HTML e CSS`, `ChakraUI`, `NestJs`, `React`, `Typescript`, `Node`, `AWS`\
 Tempo de Atuação: `Jun 2024` - `Set 2024`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/906dd406-26bf-48af-8599-7acdf79230be"/>]
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/906dd406-26bf-48af-8599-7acdf79230be"/>](https://conversu.com.br/)
 
 
 **Desenvolvedor Backend** \
@@ -36,7 +36,7 @@ Tempo de Atuação: `Jun 2024` - `Set 2024`
 Linguagens & Tecnologias: `Javascript`, `Power Apps`, `API Rest`, `Power Automate`, `Power BI`, `Digibee`,\
 Tempo de Atuação: `Jun 2022` - `Nov 2023`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/89d2f4bc-9ce0-4c83-b332-c48a979dfdfb"/>]
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/89d2f4bc-9ce0-4c83-b332-c48a979dfdfb"/>](https://vortigo.digital/)
 
 
 **Estagiário de Desenvolvimento** \
@@ -44,7 +44,7 @@ Tempo de Atuação: `Jun 2022` - `Nov 2023`
 Linguagens & Tecnologias: `Javascript`, `Node`, `React`, `Asp.Net Core`, `API REST`, `HTML`, `CSS`, `React Native`\
 Tempo de Atuação: `Dez 2021` - `Jun 2022` - Projetos em destaque: [FS Transportes](https://drive.google.com/drive/u/1/folders/1gwpuUwLnoeBSCsZj7_zsxJVxESglwSNo)
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/ac89da5b-0868-4c44-9260-c9a9926323de"/>]
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/ac89da5b-0868-4c44-9260-c9a9926323de"/>](https://hashinfo.com.br/)
 
 
 ## 📫 Contato
