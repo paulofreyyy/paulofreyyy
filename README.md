@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Paulo Henrique</h1>
 
 <p align="center">
-  💻 Desenvolvedor Frontend | 🌍 Apaixonado por Tecnologia
+  💻 Desenvolvedor Fullstack | 🌍 Apaixonado por Tecnologia
 </p><br>
 
 ## ✨ Sobre Mim
@@ -21,25 +21,31 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 ## 👷🏻 Experiências mais Recentes
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fsdu12-2.fna.fbcdn.net/v/t39.30808-6/422228135_859615082840919_2437700394420753461_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xM7BVd2j-UkQ7kNvgH2rlbp&_nc_ht=scontent.fsdu12-2.fna&oh=00_AYD3r0qRaXMERZwk9WUkSm9pUageaSMx_N5pJFpaO8ag9A&oe=66616C85"/>](https://vortigo.digital/)
 
+<br /> <br />
+
+**Desenvolvedor Frontend** \
+[**Conversu**](https://conversu.com.br/) • Full-time \
+Linguagens & Tecnologias: `Javascript`, `HTML e CSS`, `ChakraUI`, `NestJs`, `React`, `Typescript`, `Node`, `AWS`\
+Tempo de Atuação: `Jun 2024` - `Set 2024`
+
+![image](https://github.com/user-attachments/assets/906dd406-26bf-48af-8599-7acdf79230be)
+
+
 **Desenvolvedor Backend** \
 [**Vortigo Digital**](https://vortigo.digital/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Power Apps`, `API Rest`, `Power Automate`, `Power BI`, `Digibee`,\
 Tempo de Atuação: `Jun 2022` - `Nov 2023`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fsdu12-1.fna.fbcdn.net/v/t39.30808-6/305099140_449806407164744_9024310813885207796_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Qds5UX9SyQIQ7kNvgFjjllq&_nc_ht=scontent.fsdu12-1.fna&oh=00_AYA_NoouX-XRWcpxg-4bs-kLDN7ru4fYhESTw4J1N0PKrQ&oe=66617B86"/>](https://hashinfo.com.br/)
+![image](https://github.com/user-attachments/assets/89d2f4bc-9ce0-4c83-b332-c48a979dfdfb)
+
 
 **Estagiário de Desenvolvimento** \
 [**Hashinfo Tecnologia**](https://hashinfo.com.br/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Node`, `React`, `Asp.Net Core`, `API REST`, `HTML`, `CSS`, `React Native`\
 Tempo de Atuação: `Dez 2021` - `Jun 2022` - Projetos em destaque: [FS Transportes](https://drive.google.com/drive/u/1/folders/1gwpuUwLnoeBSCsZj7_zsxJVxESglwSNo)
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C510BAQH_A1fXI9hMog/company-logo_200_200/0/1631314568687?e=1726099200&v=beta&t=gXGjNZ0fnDYPnupHE8S9YoFsqkvmrC2vWPIwFWrGY4M"/>](https://www.winsiga.com.br/)
+![image](https://github.com/user-attachments/assets/ac89da5b-0868-4c44-9260-c9a9926323de)
 
-**Estagiário de Desenvolvimento** \
-[**Winsiga Sistemas**](https://www.winsiga.com.br/) • Full-time \
-Linguagens & Tecnologias: `Javascript`, `Asp.Net Core`, `VB.NET`, `C#`, `Sql Server`, `HTML e CSS`, `Power BI`\
-Tempo de Atuação: `Mai 2021` - `Nov 2021`
-<br /> <br />
 
 ## 📫 Contato
 
