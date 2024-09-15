@@ -19,9 +19,7 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 [![My Skills](https://skillicons.dev/icons?i=css,html,mysql,bootstrap,git,github,postgres,aws,docker,express,jest,vite)](https://skillicons.dev)<br><br>
 
 ## 👷🏻 Experiências mais Recentes
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.fsdu12-2.fna.fbcdn.net/v/t39.30808-6/422228135_859615082840919_2437700394420753461_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xM7BVd2j-UkQ7kNvgH2rlbp&_nc_ht=scontent.fsdu12-2.fna&oh=00_AYD3r0qRaXMERZwk9WUkSm9pUageaSMx_N5pJFpaO8ag9A&oe=66616C85"/>](https://vortigo.digital/)
-
-<br /> <br />
+<br />
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/906dd406-26bf-48af-8599-7acdf79230be"/>](https://conversu.com.br/)
 
