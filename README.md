@@ -39,12 +39,12 @@ Tempo de Atuação: `Jun 2022` - `Nov 2023`
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/89d2f4bc-9ce0-4c83-b332-c48a979dfdfb"/>](https://vortigo.digital/)
 
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/ac89da5b-0868-4c44-9260-c9a9926323de"/>](https://hashinfo.com.br/)
 **Estagiário de Desenvolvimento** \
 [**Hashinfo Tecnologia**](https://hashinfo.com.br/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Node`, `React`, `Asp.Net Core`, `API REST`, `HTML`, `CSS`, `React Native`\
 Tempo de Atuação: `Dez 2021` - `Jun 2022` - Projetos em destaque: [FS Transportes](https://drive.google.com/drive/u/1/folders/1gwpuUwLnoeBSCsZj7_zsxJVxESglwSNo)
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/ac89da5b-0868-4c44-9260-c9a9926323de"/>](https://hashinfo.com.br/)
 
 
 ## 📫 Contato
