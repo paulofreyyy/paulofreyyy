@@ -23,23 +23,22 @@ Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utili
 
 <br /> <br />
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/906dd406-26bf-48af-8599-7acdf79230be"/>](https://conversu.com.br/)
+
 **Desenvolvedor Frontend** \
 [**Conversu**](https://conversu.com.br/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `HTML e CSS`, `ChakraUI`, `NestJs`, `React`, `Typescript`, `Node`, `AWS`\
 Tempo de Atuação: `Jun 2024` - `Set 2024`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/906dd406-26bf-48af-8599-7acdf79230be"/>](https://conversu.com.br/)
-
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/89d2f4bc-9ce0-4c83-b332-c48a979dfdfb"/>](https://vortigo.digital/)
 
 **Desenvolvedor Backend** \
 [**Vortigo Digital**](https://vortigo.digital/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Power Apps`, `API Rest`, `Power Automate`, `Power BI`, `Digibee`,\
 Tempo de Atuação: `Jun 2022` - `Nov 2023`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/89d2f4bc-9ce0-4c83-b332-c48a979dfdfb"/>](https://vortigo.digital/)
-
-
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/ac89da5b-0868-4c44-9260-c9a9926323de"/>](https://hashinfo.com.br/)
+
 **Estagiário de Desenvolvimento** \
 [**Hashinfo Tecnologia**](https://hashinfo.com.br/) • Full-time \
 Linguagens & Tecnologias: `Javascript`, `Node`, `React`, `Asp.Net Core`, `API REST`, `HTML`, `CSS`, `React Native`\
