@@ -6,9 +6,7 @@
 
 ## ✨ Sobre Mim
 <p>
-  Minha experiência mais recente na VORTIGO DIGITAL me proporcionou a oportunidade de trabalhar como Desenvolvedor Full Stack, onde fui responsável pelo desenvolvimento de integrações utilizando a plataforma híbrida de integração Digibee, Power Apps e Mambu para criar APIs . Além disso, participei ativamente do design e desenvolvimento de soluções baseadas nessas plataformas, demonstrando minha habilidade em lidar com tecnologias modernas.
-
-Possuo expertise avançada em HTML, CSS, Javascript, Node.js e React.js, e utilizei essas habilidades para contribuir efetivamente no desenvolvimento de projetos web e mobile. Minha formação acadêmica sólida na Universidade Cruzeiro do Sul complementa minhas habilidades técnicas, proporcionando uma base sólida em Engenharia de Software.
+Possuo domínio em Node.js, React.js, HTML, CSS, Javascript, e utilizei essas habilidades para contribuir efetivamente no desenvolvimento de grandes projetos. Minha formação acadêmica sólida na Universidade Cruzeiro do Sul complementa minhas habilidades técnicas, proporcionando uma base sólida em Engenharia de Software.
 </p>
 <br/>
 
