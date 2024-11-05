@@ -52,5 +52,6 @@ Tempo de Atuação: `Dez 2021` - `Jun 2022` - Projetos em destaque: [FS Transpor
 
 ![PauloFreyyy GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofreyyy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreyyy&layout=compact&theme=radical&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=paulofreyyy&theme=dark)](https://git.io/streak-stats)
 
 Fique à vontade para entrar em contato comigo! 😊 <br><br>
